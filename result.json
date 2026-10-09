@@ -1,0 +1,47 @@
+{
+    "timestamp": "2026-10-09 17:57:50",
+    "accessible_count": 3,
+    "inaccessible_count": 0,
+    "total_count": 3,
+    "geo_blocked_count": 0,
+    "has_author_link_count": 0,
+    "author_url": "shirone-theme.pages.dev",
+    "link_status": [
+        {
+            "name": "Mizuki",
+            "link": "https://mizuki.mysqil.com",
+            "latency": 1.05,
+            "fail_count": 0,
+            "status": "ok",
+            "geo_hint": null,
+            "geo_streak": 0,
+            "has_author_link": false,
+            "linkpage": "",
+            "siteshot": "https://image.thum.io/get/width/1280/crop/800/png/https://mizuki.mysqil.com"
+        },
+        {
+            "name": "Astro",
+            "link": "https://astro.build",
+            "latency": 0.11,
+            "fail_count": 0,
+            "status": "ok",
+            "geo_hint": null,
+            "geo_streak": 0,
+            "has_author_link": false,
+            "linkpage": "",
+            "siteshot": "https://image.thum.io/get/width/1280/crop/800/png/https://astro.build"
+        },
+        {
+            "name": "Material 3",
+            "link": "https://m3.material.io",
+            "latency": 0.47,
+            "fail_count": 0,
+            "status": "ok",
+            "geo_hint": null,
+            "geo_streak": 0,
+            "has_author_link": false,
+            "linkpage": "",
+            "siteshot": "https://image.thum.io/get/width/1280/crop/800/png/https://m3.material.io"
+        }
+    ]
+}
